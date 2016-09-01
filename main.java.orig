@@ -1,9 +1,11 @@
 public static void main(String[] args) {
-	String connerie="blague";	
 	System.out.printlf("I NEED COFFEEEE");
 	System.out.println("I need it to !!");
 	System.out.println("I am so tired !!");
+<<<<<<< HEAD
 	System.out.println("Hello Falzen ");
+}
+=======
 	System.out.println("blah blah");
-	System.out.println("J'ai faimmmmmmmmmmmmmmmmm");
 	}
+>>>>>>> 749b469d3ce33de76c34345d9802adb0af7f1dd3
